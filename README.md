@@ -20,6 +20,10 @@ This document objectives are:
 - RH OCP:
   - OCP Install: <https://docs.openshift.com/container-platform/4.2/installing/installing_vsphere/installing-vsphere.html>
   - OCP Client mirror: <https://mirror.openshift.com/pub/openshift-v4/clients/ocp/>
+- GSE Asset - IBM Knowledege Center
+  - OCP 3.11: http://cloudpak8s.io/
+  - OCP 4.2:  http://ocp42.cloudpak8s.io/
+  - OCPA Install Home: https://www.ibm.com/support/knowledgecenter/SSCSJL_3.x/install-icpa-cli.html
 
 - More Reading
   - Bare-metal: A single-tenant physical server. Not a virtual server running in multiple on shared hardware. 
