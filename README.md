@@ -4,8 +4,8 @@
 - [Objectives](#objective)
 - [References](#references)
 - [CP4 App on OCP 4.2 on vSphere](#icpa-ocp42-vsphere)
- - [Cluster Sizing](#icpa-cluser-sizing)
- - [Cluster Creation](#icpa-cluster-creation)
+  - [Cluster Sizing](#icpa-cluser-sizing)
+  - [Cluster Creation](#icpa-cluster-creation)
 - [Appendix](#appendix)
 
 
