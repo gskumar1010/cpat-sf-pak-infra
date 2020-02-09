@@ -25,9 +25,9 @@ This document objectives are:
   - Bare-metal: A single-tenant physical server. Not a virtual server running in multiple on shared hardware. 
     - <https://en.wikipedia.org/wiki/Bare-metal_server>
   - Hypervisor, Host and Guest machines
-    - https://en.wikipedia.org/wiki/Hypervisor
- - DHCP server.
-    - https://www.youtube.com/watch?v=e6-TaH5bkjo
+    - <https://en.wikipedia.org/wiki/Hypervisor>
+  - DHCP server.
+    - <https://www.youtube.com/watch?v=e6-TaH5bkjo>
 
 ## CP4 App on OCP 4.2 on vSphere
 
