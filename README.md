@@ -32,6 +32,9 @@ This document objectives are:
     - <https://en.wikipedia.org/wiki/Hypervisor>
   - DHCP server.
     - <https://www.youtube.com/watch?v=e6-TaH5bkjo>
+    
+  - Utils:
+    - <http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf>
 
 ## CP4 App on OCP 4.2 on vSphere
 
