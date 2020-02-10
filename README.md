@@ -15,6 +15,8 @@ This document objectives are:
 
 ## References
 
+- vCenter Server:
+  - https://demo-vcenter.csplab.local/ui
 - CSP LAB -  Victor install guide:
   - <https://github.com/ibm-cloud-architecture/refarch-privatecloud/blob/master/Install_OCP_4.x.md>
 - RH OCP:
@@ -34,7 +36,8 @@ This document objectives are:
     - <https://www.youtube.com/watch?v=e6-TaH5bkjo>
     
   - Utils:
-    - <http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf>
+    - VIDEO TO WATCH K8s Architecture: https://www.youtube.com/watch?v=_3NUI5vasPk
+      - <http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf>
 
 ## CP4 App on OCP 4.2 on vSphere
 
