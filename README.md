@@ -37,7 +37,7 @@ This document objectives are:
     
   - Utils:
     - VIDEO TO WATCH K8s Architecture: https://www.youtube.com/watch?v=_3NUI5vasPk
-      - <http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf>
+    - vi cheat sheet: <http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf>
 
 ## CP4 App on OCP 4.2 on vSphere
 
