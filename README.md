@@ -15,7 +15,7 @@ This document objectives are:
 
 ## References
 - This doc/template borrowed from: 
-  - https://ibmcase.slack.com/archives/CRTL16GF7/p1581192646043300
+  - <https://github.com/mrislam11378/OCP4.x-and-icp4i-install>
 - vCenter Server:
   - https://demo-vcenter.csplab.local/ui
 - CSP LAB -  Victor install guide:
