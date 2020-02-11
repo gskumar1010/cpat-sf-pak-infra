@@ -33,7 +33,7 @@ This document objectives are:
     - <https://en.wikipedia.org/wiki/Bare-metal_server>
   - Hypervisor, Host and Guest machines
     - <https://en.wikipedia.org/wiki/Hypervisor>
-  - DHCP server.
+  - DHCP server: A SHORT AND GOOD VIDEO.
     - <https://www.youtube.com/watch?v=e6-TaH5bkjo>
     
   - Utils:
@@ -44,15 +44,15 @@ This document objectives are:
 
 ## Cluster Sizing
 
-**Node**|**#**|**CPU**|**RAM**|**DISK1**|**DISK2**|**DISK3**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-Installer|1|4|16|120||
-Bootstrap|1|4|16|100||
-LB|1|4|16|120||
-Master(Control plane) |3|16|32|300||
-Worker (Compute) |8|16|64|200||
-Storage|3|4|16|200|500|
-NFS|1|2|8|500||
+**Node**|**#**|**CPU**|**RAM**|**DISK1**|**DISK2**|**DISK3**|**OS**|**Purpose**|
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|:------:|
+Installer|1|4|16|120|||RHEL 8.0||
+Bootstrap|1|4|16|120|||CoreOS (RHCOS)||
+LB|1|4|16|120|||RHEL 8.0||
+Master(Control plane) |3|16|32|300|||RHEL 8.0 or RHCOS||
+Worker (Compute) |8|16|64|200|||RCOS||
+Storage|3|4|16|200|500||RHEL 8.0||
+NFS|1|2|8|500|||RHEL 8.0||
 
 ## Cluster Creation
 Web Server: http://172.18.3.227/res-cpsandbox/. TODO: UPDATE
