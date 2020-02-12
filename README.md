@@ -46,9 +46,9 @@ This document objectives are:
 
 **Node**|**#**|**CPU**|**RAM**|**DISK1**|**DISK2**|**DISK3**|**OS**|**Purpose**|
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|:------:|
-Installer|1|4|16|120|||RHEL 8.0||
-Bootstrap|1|4|16|120|||CoreOS (RHCOS)||
-LB|1|4|16|120|||RHEL 8.0||
+Installer|1|4|16|120|||RHEL 8.0| Installation machine, can be discarded after install|
+Bootstrap|1|4|16|120|||CoreOS (RHCOS)| Bootstarp machine, discarded after install|
+LB|2|4|16|120|||RHEL 8.0|1 LB for workers, 1 for control nodes|
 Master(Control plane) |3|16|32|300|||RHEL 8.0 or RHCOS||
 Worker (Compute) |8|16|64|200|||RCOS||
 Storage|3|4|16|200|500||RHEL 8.0||
