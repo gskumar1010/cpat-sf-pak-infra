@@ -16,6 +16,9 @@ This document objectives are:
 ## References
 - This doc/template borrowed from: 
   - <https://github.com/mrislam11378/OCP4.x-and-icp4i-install>
+-  some automation script: 
+  - https://github.ibm.com/Andrew-Suh/ocp-installer-helper
+  - video avail at slack post: https://ibmcase.slack.com/archives/CNWS20QF7/p1582676006036700
 - vCenter Server:
   - https://demo-vcenter.csplab.local/ui
 - CSP LAB -  Victor install guide:
